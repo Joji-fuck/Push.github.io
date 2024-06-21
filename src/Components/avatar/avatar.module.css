@@ -1,0 +1,18 @@
+.avatarBlock{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.avatar{
+    transition: .3s;
+    height:250px;
+    width:250px;
+    border-radius:50%;
+    object-fit:cover;
+}
+.avatar:hover{
+    transform: scale(1.1);
+    /*box-shadow: aqua;*/
+    transition: .3s;
+    box-shadow: 0px 0px 32px 12px rgba(0, 144, 255, 0.35);
+}

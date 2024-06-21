@@ -1,0 +1,12 @@
+.about{
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+    font-family: Montserrat;
+}
+.about h1{
+    font-size: 40px;
+}
+.about span{
+    font-size: 20px;
+}
